@@ -205,3 +205,14 @@ swap_bookends(["red", "green", "blue"])
 swap_bookends([8, 3])
 [3, 8]
 ```
+
+## HISTORY
+
+**Aug 26, 2026** — Final touches
+Made the final improvements and corrections to the code and README.
+
+**Aug 23, 2026** — README structure
+Created the overall structure and organization of the README.
+
+**Aug 20, 2026** — Initial commit
+Created the initial code and implemented the main functionality of the project.
