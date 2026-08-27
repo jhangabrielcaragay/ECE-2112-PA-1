@@ -31,7 +31,7 @@ Since the goal is to include the rest of the string, the ending position is left
 >To further explain the syntax:
 ```text[start:stop]```
 
-Finally, we will combine the two with a simple ```**+**``` and we will ```**return**``` to give back the result produced by the function.
+Finally, we will combine the two with a simple ```+``` and we will ```return``` to give back the result produced by the function.
 
 ```return text[1:] + text[0]```
 
